@@ -1,0 +1,10 @@
+c:\Users\39694603870\Backend\Projetos\SisLog\bin\Debug\netcoreapp2.0\SisLog.deps.json
+c:\Users\39694603870\Backend\Projetos\SisLog\bin\Debug\netcoreapp2.0\SisLog.runtimeconfig.json
+c:\Users\39694603870\Backend\Projetos\SisLog\bin\Debug\netcoreapp2.0\SisLog.runtimeconfig.dev.json
+c:\Users\39694603870\Backend\Projetos\SisLog\bin\Debug\netcoreapp2.0\SisLog.dll
+c:\Users\39694603870\Backend\Projetos\SisLog\bin\Debug\netcoreapp2.0\SisLog.pdb
+c:\Users\39694603870\Backend\Projetos\SisLog\obj\Debug\netcoreapp2.0\SisLog.csproj.CoreCompileInputs.cache
+c:\Users\39694603870\Backend\Projetos\SisLog\obj\Debug\netcoreapp2.0\SisLog.AssemblyInfoInputs.cache
+c:\Users\39694603870\Backend\Projetos\SisLog\obj\Debug\netcoreapp2.0\SisLog.AssemblyInfo.cs
+c:\Users\39694603870\Backend\Projetos\SisLog\obj\Debug\netcoreapp2.0\SisLog.dll
+c:\Users\39694603870\Backend\Projetos\SisLog\obj\Debug\netcoreapp2.0\SisLog.pdb
